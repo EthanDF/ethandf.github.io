@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! This is me! Best expressed elsewhere.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to track new music I'm listening to - there should be a link eventually to a simple list of things I'm listening to.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ethanfenichel at gmail.com](mailto:ethanfenichel+blog@gmail.com)
