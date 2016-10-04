@@ -8,9 +8,8 @@ Hardesty, Juliet L. "Transitioning from XML to RDF: considerations for an effect
 DOI: [http://dx.doi.org/10.6017/ital.v35i1.9182](http://dx.doi.org/10.6017/ital.v35i1.9182)
 http://go.galegroup.com/ps/i.do?p=EAIM&sw=w&u=gale15691&v=2.1&it=r&id=GALE%7CA454359632&sid=summon&asid=4f7e992822053dc348fd0ec85ed40a6c
 
-Notes
+# Notes
 ------
-# Defining RDF and XML and RDF/XML
 * RDF is the language of BIBFRAME, Semantic Web, Fedora 4, Linked Data - replacing XML.
 * RDF focuses on sets of statements describing relationships and meaning. These statements consist of a subject, a predicate, and an object
 * RDF ontologies are sets of properties for a particular domain.
@@ -31,4 +30,4 @@ Notes
 # Possible Future Readings from BibliographY
 ------
 * Southwick, Silvia B. “A Guide for Transforming Digital Collections Metadata into Linked Data Using Open Source Technologies.” Journal of Library Metadata 15, no. 1 (March 2015): 1–35. doi:10.1080/19386389.2015.1007009.
-* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. http://ir.library.oregonstate.edu/xmlui/handle/1957/44856.
+* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. [http://ir.library.oregonstate.edu/xmlui/handle/1957/44856].
