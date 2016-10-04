@@ -30,4 +30,4 @@ http://go.galegroup.com/ps/i.do?p=EAIM&sw=w&u=gale15691&v=2.1&it=r&id=GALE%7CA45
 # Possible Future Readings from BibliographY
 ------
 * Southwick, Silvia B. “A Guide for Transforming Digital Collections Metadata into Linked Data Using Open Source Technologies.” Journal of Library Metadata 15, no. 1 (March 2015): 1–35. doi:10.1080/19386389.2015.1007009.
-* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. [http://ir.library.oregonstate.edu/xmlui/handle/1957/44856].
+* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. (http://ir.library.oregonstate.edu/xmlui/handle/1957/44856).
