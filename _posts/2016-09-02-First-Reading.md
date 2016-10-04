@@ -6,7 +6,6 @@ title: First Reading - Transitioning from XML to RDF considerations for an effec
 Hardesty, Juliet L. "Transitioning from XML to RDF: considerations for an effective move towards linked data and the semantic web." *Information Technology and Libraries* Mar. 2016: 51+. Expanded Academic ASAP. Web. 2 Sept. 2016.
 
 DOI: [http://dx.doi.org/10.6017/ital.v35i1.9182](http://dx.doi.org/10.6017/ital.v35i1.9182)
-http://go.galegroup.com/ps/i.do?p=EAIM&sw=w&u=gale15691&v=2.1&it=r&id=GALE%7CA454359632&sid=summon&asid=4f7e992822053dc348fd0ec85ed40a6c
 
 # Notes
 ------
@@ -30,4 +29,4 @@ http://go.galegroup.com/ps/i.do?p=EAIM&sw=w&u=gale15691&v=2.1&it=r&id=GALE%7CA45
 # Possible Future Readings from BibliographY
 ------
 * Southwick, Silvia B. “A Guide for Transforming Digital Collections Metadata into Linked Data Using Open Source Technologies.” Journal of Library Metadata 15, no. 1 (March 2015): 1–35. doi:10.1080/19386389.2015.1007009.
-* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. (http://ir.library.oregonstate.edu/xmlui/handle/1957/44856).
+* Estlund, Karen, and Tom Johnson. “Link It or Don’t Use It: Transitioning Metadata to Linked Data in Hydra,” July 2013. [http://ir.library.oregonstate.edu/xmlui/handle/1957/44856](http://ir.library.oregonstate.edu/xmlui/handle/1957/44856).
