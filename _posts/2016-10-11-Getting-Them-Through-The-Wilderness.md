@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Them Through The Wilderness: A Leaders Guide to Transition by William Bridges
+title: Geting Them Through the Wilderness 
 ---
 
 # Getting Them Through The Wilderness: A Leaders Guide to Transition 
