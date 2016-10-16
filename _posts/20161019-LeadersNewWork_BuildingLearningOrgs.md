@@ -18,11 +18,11 @@ As with my last reading, this one comes from a mentor, as well. I found this art
 
 The idea of "learning organizations" seems to be resolve a problem I've found where often those with responsibility have no authority. Or, those with authority don't understand the responsibilities of those in their reporting lines. What I understood, is that learning recognize that everyone has a passion and the responsibility to bring innovation and passion to their work. As such, they are trusted with the authority to at least promote their own ideas. Further, the management would be able to trust that their organization is structured to promote such innovation. Their work would be less in the execution and more about ensuring the system built around the execution is well suited. 
 
-This makes me think about how metadata work happens and how the role of the librarian might best relate to the staff supporting the production of metadata. So much of my work in technical services is about ensuring that the workflows for copy cataloging and batch loading are happening in a system that conducive to efficient workflows. I'm less concerned, on a day-to-day basis, with the actual production. I don't think my supervisors see it this way. They expect the execution and the reflection to all happen at once. Of course, most often it does just because I have no one else to do the work. Automation is a really handy mechnanism for thinking through systems. It forces me to consider what needs to be done and what are the decisions that go into each action. Next, I can think about what can be decided automatically and how best to present information to the people who must make the decisions that cannot be automated. Even without automation, as librarians lead learning organizations, in technical services departments, perhaps the author's "systems thinking" is a good way to frame the responsibility. 
+This makes me think about how metadata work happens and how the role of the librarian might best relate to the staff supporting the production of metadata. So much of my work in technical services is about ensuring that the workflows for copy cataloging and batch loading are happening in a system that conducive to efficient workflows. I'm less concerned, on a day-to-day basis, with the actual production. I don't think my supervisors see it this way. They expect the execution and the reflection to all happen at once. Of course, most often it does just because I have no one else to do the work. Automation is a really handy mechanism for thinking through systems. It forces me to consider what needs to be done and what are the decisions that go into each action. Next, I can think about what can be decided automatically and how best to present information to the people who must make the decisions that cannot be automated. Even without automation, as librarians lead learning organizations, in technical services departments, perhaps the author's "systems thinking" is a good way to frame the responsibility. 
 
 ## from the article
 
-* instutions are oriented toward controlling rather than learning, rewarding individuals for performance rather than cultivating curiosity and the impulse to learn
+* institutions are oriented toward controlling rather than learning, rewarding individuals for performance rather than cultivating curiosity and the impulse to learn
 * Focus on someone else's performance standards lead to mediocrity
 * "It is no longer possible for anyone to 'figure it all out at the top.'" > Instead integrate thinking and acting at all levels
 * Generative Learning & adaptive learning - which is about coping
@@ -33,20 +33,20 @@ This makes me think about how metadata work happens and how the role of the libr
 * Leadership roles in learning organization are different than the "charismatic leader."
     *   Leaders are designers, teachers, and stewards
     *   Need the ability to build shared vision, to bring to the surface and challenge mental models, foster more systemic patterns of thinking
-    *   Myth of the strong leader < Leader who facilities learning effectively
+    *   Myth of the strong leader < Leader who facilitates learning effectively
 *   Creative tension 
     *   where "vision" says we should be and "current reality"
     *   Analysis does not lead to or substitute for a vision
     *   Vision alone will not lead to a creative tension, also requires clear understanding of the current state of affairs
-    *   "Many organizatons find themselves motivated to change only when their problems are bad enough to cause them to change. This works for a while." Creative tension creates the intrinsic motivation to change -> to resolve the tension.
+    *   "Many orgs find themselves motivated to change only when their problems are bad enough to cause them to change. This works for a while." Creative tension creates the intrinsic motivation to change -> to resolve the tension.
     *   Distinction between changing when things are bad and by creative tension mirrors "adaptive" vs. "generative" learning.
-*   Edgar Schein - "Leadership is intertwinded with culture formation."
+*   Edgar Schein - "Leadership is intertwined with culture formation."
 *   Leader as Designer
     *   leading a poorly designed organization will result in failure
-    *   "Social architecture" - the fuctions of design - is rarely visible
+    *   "Social architecture" - the functions of design - is rarely visible
     *   1st need to establish governing ideas of purpose, visions, and core values by which the people will live. This has the greatest impact on an org's foundation
     *   2nd need to establish policies, strategies, and structures that translate guiding ideas into business decisions. This is the "institutional embodiment of purpose."
-    *   3rd develop effective learning processes - deepens and extends strategic responsibilities of senior management. Also responsibile for ensuring processes exist to policies & strategies are improved
+    *   3rd develop effective learning processes - deepens and extends strategic responsibilities of senior management. Also responsible for ensuring processes exist to policies & strategies are improved
     *   One learning process is "scenario analysis" - plannings encourage operating managers to think through how they would manage in the future under different possible scenarios.
 *   Leader as Teacher
     *   Leaders must "define reality." 
@@ -59,19 +59,19 @@ This makes me think about how metadata work happens and how the role of the libr
     *   "People can suffer economically, emotionally, and spiritually under inept leadership." - this instills a sense of responsibility in leaders
     *   Leadership arises from a sense of personal purpose and commitment to the organization's larger mission.
     *   "Achieving return on equity does not, as a goal, mobilize the most noble forces of our soul." - Lawrence Miller
-    *   Leaders engaged in building learning organizations naturally feel part of a larger purpose that goes beyond their organizatio. They are part of changing the way businesses operate, not from a vague phianthropic urge, but from a conviction that their efforts will produce organizations capable of achieving higher levels of organizational success and personal satisfaction than traditional organizations. (approximately quoted)
+    *   Leaders engaged in building learning organizations naturally feel part of a larger purpose that goes beyond their organization. They are part of changing the way businesses operate, not from a vague philanthropic urge, but from a conviction that their efforts will produce organizations capable of achieving higher levels of organizational success and personal satisfaction than traditional organizations. (approximately quoted)
     *   George Bernard Shaw - "This is the true joy in life, the being used for a purpose you consider a mighty one, the being a force of nature rather than a feverish, selfish clod of ailments and grievances complaining that world will not devote itself to making you happy." 
 *   New Skills
     *   Must be distributed widely through the org
     *   Most critical:
         1. Building shared vision
-        2. Surfacing and challenging mental modeles (assumptions)
+        2. Surfacing and challenging mental models (assumptions)
         3. Engaging in systems thinking
     *   Everyone shares responsibility for the whole, not just the piece of the org
-    *   Leaders must contually share their own vision
+    *   Leaders must continually share their own vision
     *   Building a shared vision is an ongoing process
     *   Avoid confusing our generalizations with observable data (leaps of abstraction"
-    *   Acknowledge advocacy skills as potentially counterproductive as compleity requires collaborative learning among different, equally knowledable people
+    *   Acknowledge advocacy skills as potentially counterproductive as complexity requires collaborative learning among different, equally knowledgeable people
     *   During advocacy -
         *   explain the reasoning and data that led to the view
         *   encourage others to test the view
@@ -82,7 +82,7 @@ This makes me think about how metadata work happens and how the role of the libr
 *   Systems thinking
     *   Systems thinkers focus less on day-to-day events and more on underlying trends and forces for change. They do so intuitively.
     *   Failure to see interrelationships of actions lead to a trap
-    *   poorly designed systems, no incompetant or unmotivated individuals, cause most organizational problems
+    *   poorly designed systems, not incompetent or unmotivated individuals, cause most organizational problems
     *   "you, and the cause of your problem, are part of a single system."
     *   Dynamic complexity arises when cause and effect are distant in time and space
     *   systems thinking is the new "dismal science" because it teaches that most obvious solutions don't work
@@ -91,4 +91,4 @@ This makes me think about how metadata work happens and how the role of the libr
     *  leaders who lack systems thinking skills can be devastating. They deal in crises and events. This leads to cynicism
     *  "Many talented leaders have rich, highly systemic intuitions but cannot explain those intuitions to others. Ironically, they often end up being authoritarian leaders, even if they don't want to, because only they see the decisions that need to be made. They are unable to conceptualize their strategic insights so that these can become public knowledge, open to challenge and further improvement." 
         *   ***I find this to be true in my experience.***
-    *  Lao Tsu - "The wicked leade is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.'" 
+    *  Lao Tsu - "The wicked leader is he who the people despise. The good leader is he who the people revere. The great leader is he who the people say, 'We did it ourselves.'" 
