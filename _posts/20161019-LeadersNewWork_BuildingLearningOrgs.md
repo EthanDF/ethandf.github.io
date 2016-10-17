@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Leader's New Work: Building Learning Organizations
+title: The Leader's New Work - Building Learning Organizations
 ---
 
 # The Leader's New Work: Building Learning Organizations  
