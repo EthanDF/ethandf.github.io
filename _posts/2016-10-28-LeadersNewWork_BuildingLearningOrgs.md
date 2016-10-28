@@ -6,7 +6,7 @@ title: The Leader's New Work - Building Learning Organizations
 # The Leader's New Work: Building Learning Organizations  
 by Peter M. Senge
 
-[http://www.wmbridges.com/pdf/getting-thru-wilderness-2006-v2.pdf]
+[http://www.wmbridges.com/pdf/getting-thru-wilderness-2006-v2.pdf](http://www.wmbridges.com/pdf/getting-thru-wilderness-2006-v2.pdf)
 
 ## Preamble on Leadership Readings
 
