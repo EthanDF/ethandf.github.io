@@ -3,7 +3,7 @@ layout: post
 title: Teaching Smart People How to Learn
 ---
 
-# Teachinig Smart People How to Learn
+# Teaching Smart People How to Learn
 by Chris Argyris
 
 Harvard Business Review: May-June 1991
